@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angeguillaumekoffi
 - 👀 I’m interested in web, mobile and desktop development as a full-stack
-- 🌱 I’m currently learning ...
+- 🌱 I’m learning ...
 - 💞️ I’m looking to collaborate on Python, Django, ReactJS and NodeJS projects.
 - 📫 How to reach me : angekoffiguillaume@gmail.com
 
