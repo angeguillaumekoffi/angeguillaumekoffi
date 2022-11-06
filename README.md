@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 - 👋 Hi, I’m <span class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ange-guillaume-koffi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/ange-guillaume-koffi?trk=profile-badge">Ange Guillaume Koffi</a></span>
 - 👀 I’m interested in web, mobile and desktop development
 - 🌱 I’m still learning ...
