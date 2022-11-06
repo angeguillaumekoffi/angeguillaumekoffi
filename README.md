@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <span class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ange-guillaume-koffi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/ange-guillaume-koffi?trk=profile-badge">Ange Guillaume Koffi</a></span>
 - 👀 I’m interested in web, mobile and desktop development
 - 🌱 I’m still learning ...
-- 💞️ I’m looking to collaborate on sofware engeneering projects (Full-Stack, DevOps, ,.
+- 💞️ I’m looking to collaborate on sofware engeneering projects (Python, JavaScript, Docker, CI/CD).
 - 📫 How to reach me : angekoffiguillaume@gmail.com
 
 
