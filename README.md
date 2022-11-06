@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @angeguillaumekoffi
-- 👀 I’m interested in web, mobile and desktop development as a full-stack
-- 🌱 I’m learning ...
-- 💞️ I’m looking to collaborate on Python, Django, ReactJS and NodeJS projects.
+- 👀 I’m interested in web, mobile and desktop development
+- 🌱 I’m still learning ...
+- 💞️ I’m looking to collaborate on sofware engeneering projects (Full-Stack, DevOps, ,.
 - 📫 How to reach me : angekoffiguillaume@gmail.com
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ange-guillaume-koffi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/ange-guillaume-koffi?trk=profile-badge">Ange Guillaume Koffi</a></div>
 
 <a href="https://app.daily.dev/ange_guillaume"><img src="https://api.daily.dev/devcards/37be505ca78f44688067e4c6e94db8c1.png?r=1ci" width="400" alt="Ange Guillaume Koffi's Dev Card"/></a>
 
