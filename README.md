@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on sofware engeneering projects (Full-Stack, DevOps, ,.
 - 📫 How to reach me : angekoffiguillaume@gmail.com
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <a href="https://app.daily.dev/ange_guillaume"><img src="https://api.daily.dev/devcards/37be505ca78f44688067e4c6e94db8c1.png?r=1ci" width="400" alt="Ange Guillaume Koffi's Dev Card"/></a>
 
 <!---
