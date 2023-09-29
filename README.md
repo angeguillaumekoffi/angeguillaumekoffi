@@ -1,8 +1,8 @@
 - 👋 Hi, I’m <span class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ange-guillaume-koffi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/ange-guillaume-koffi?trk=profile-badge">Ange Guillaume Koffi</a></span>
-- 👀 I’m interested in web, mobile and desktop development
-- 🌱 I’m still learning ...
-- 💞️ I’m looking to collaborate on sofware engeneering projects (Python, JavaScript, Docker, CI/CD).
-- 📫 How to reach me : angekoffiguillaume@gmail.com
+- 👀 I’m interested in software development
+- 🌱 I’m still learning new tech...
+- 💞️ I’m looking to collaborate on sofware engeneering projects using Python, JavaScript, DevOps and more.
+- 📫 How to reach me via the link above.
 
 
 <a href="https://app.daily.dev/ange_guillaume"><img src="https://api.daily.dev/devcards/37be505ca78f44688067e4c6e94db8c1.png?r=1ci" width="400" alt="Ange Guillaume Koffi's Dev Card"/></a>
