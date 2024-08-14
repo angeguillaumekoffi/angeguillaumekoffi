@@ -5,7 +5,7 @@
 - 📫 How to reach me via the link above.
 
 
-<a href="https://app.daily.dev/ange_guillaume"><img src="https://api.daily.dev/devcards/37be505ca78f44688067e4c6e94db8c1.png?r=1ci" width="400" alt="Ange Guillaume Koffi's Dev Card"/></a>
+<!--a href="https://app.daily.dev/ange_guillaume"><img src="https://api.daily.dev/devcards/37be505ca78f44688067e4c6e94db8c1.png?r=1ci" width="400" alt="Ange Guillaume Koffi's Dev Card"/></a-->
 
 <!---
 angeguillaumekoffi/angeguillaumekoffi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
