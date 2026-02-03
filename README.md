@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <span class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ange-guillaume-koffi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/ange-guillaume-koffi?trk=profile-badge">Ange Guillaume Koffi</a></span>
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development and python language
 - 🌱 I’m still learning new tech...
-- 💞️ I’m looking to collaborate on sofware engeneering projects using Python, JavaScript, DevOps and more.
+- 💞️ I’m looking to collaborate on sofware projects, Data, AI, DevOps and more.
 - 📫 How to reach me via the link above.
 
 
